@@ -16,12 +16,15 @@ import com.ceub.primeiro_verso.domain.Categoria;
 public class CategoriaResource {
 	// método básico
 	// atribuir o métodos http de acordo com a requisição desejada (obter dados = get, salvar/incluir = post)
+	// retorna lista de categorias
 	@RequestMapping(method=RequestMethod.GET)
 	public List<Categoria> listar() {
-				
+		
+		// 2 objetos 
 		Categoria cat1 = new Categoria(1, "Informática");
 		Categoria cat2 = new Categoria(2, "Escritório");
 		
+		// instaciados para testar
 		List<Categoria> lista = new ArrayList<>();
 		lista.add(cat1);
 		lista.add(cat2);
