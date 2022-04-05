@@ -1,0 +1,95 @@
+2022-04-05 11:20:38,574 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-05 11:23:41,847 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ceub:primeiroVerso:0.0.1-SNAPSHOT @ C:\Users\Hugo\Documents\ws-sts\primeiroVerso\pom.xml.
+2022-04-05 11:23:48,366 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /primeiroVerso/src/main/java
+2022-04-05 11:23:48,367 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /primeiroVerso/src/main/resources
+2022-04-05 11:23:48,380 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /primeiroVerso/src/main/resources
+2022-04-05 11:23:48,386 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /primeiroVerso/src/test/java
+2022-04-05 11:23:50,094 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.6.6/spring-boot-starter-web-2.6.6-sources.jar
+2022-04-05 11:23:50,295 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.6.6/spring-boot-starter-web-2.6.6-sources.jar
+2022-04-05 11:23:50,298 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.6.6
+2022-04-05 11:23:51,350 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.6.6/spring-boot-starter-2.6.6-sources.jar
+2022-04-05 11:23:51,570 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.6.6/spring-boot-starter-2.6.6-sources.jar
+2022-04-05 11:23:51,572 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:2.6.6
+2022-04-05 11:23:52,053 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.6.6/spring-boot-2.6.6-sources.jar
+2022-04-05 11:23:52,258 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2022-04-05 11:23:52,261 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-05 11:23:52,637 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ceub:primeiroVerso:0.0.1-SNAPSHOT @ C:\Users\Hugo\Documents\ws-sts\primeiroVerso\pom.xml.
+2022-04-05 11:23:52,965 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /primeiroVerso/src/main/java
+2022-04-05 11:23:52,967 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /primeiroVerso/src/main/resources
+2022-04-05 11:23:52,967 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /primeiroVerso/src/main/resources
+2022-04-05 11:23:52,968 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /primeiroVerso/src/test/java
+2022-04-05 11:23:53,324 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-05 11:23:54,166 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:23:54,167 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:23:54,170 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-05 11:23:54,185 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:23:54,187 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:23:54,187 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:23:54,187 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
+2022-04-05 11:23:54,338 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.6.6/spring-boot-2.6.6-sources.jar
+2022-04-05 11:23:54,340 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:2.6.6
+2022-04-05 11:23:54,863 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.6.6/spring-boot-autoconfigure-2.6.6-sources.jar
+2022-04-05 11:23:57,862 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.6.6/spring-boot-autoconfigure-2.6.6-sources.jar
+2022-04-05 11:23:57,865 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:2.6.6
+2022-04-05 11:23:58,366 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.6.6/spring-boot-starter-logging-2.6.6-sources.jar
+2022-04-05 11:23:58,558 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.6.6/spring-boot-starter-logging-2.6.6-sources.jar
+2022-04-05 11:23:58,560 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:2.6.6
+2022-04-05 11:23:59,101 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.6.6/spring-boot-starter-json-2.6.6-sources.jar
+2022-04-05 11:23:59,299 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.6.6/spring-boot-starter-json-2.6.6-sources.jar
+2022-04-05 11:23:59,302 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.6.6
+2022-04-05 11:23:59,843 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.2.2/jackson-databind-2.13.2.2-sources.jar
+2022-04-05 11:24:02,053 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.2.2/jackson-databind-2.13.2.2-sources.jar
+2022-04-05 11:24:02,056 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.13.2.2
+2022-04-05 11:24:02,593 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.6.6/spring-boot-starter-tomcat-2.6.6-sources.jar
+2022-04-05 11:24:02,796 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.6.6/spring-boot-starter-tomcat-2.6.6-sources.jar
+2022-04-05 11:24:02,799 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:2.6.6
+2022-04-05 11:24:03,277 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.18/spring-web-5.3.18-sources.jar
+2022-04-05 11:24:05,151 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.18/spring-web-5.3.18-sources.jar
+2022-04-05 11:24:05,153 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.3.18
+2022-04-05 11:24:05,655 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2022-04-05 11:24:07,405 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2022-04-05 11:24:07,407 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.18
+2022-04-05 11:24:07,924 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.18/spring-webmvc-5.3.18-sources.jar
+2022-04-05 11:24:09,980 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.18/spring-webmvc-5.3.18-sources.jar
+2022-04-05 11:24:09,983 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.3.18
+2022-04-05 11:24:11,096 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2022-04-05 11:24:13,218 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2022-04-05 11:24:13,221 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.18
+2022-04-05 11:24:13,756 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2022-04-05 11:24:15,917 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2022-04-05 11:24:15,919 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.18
+2022-04-05 11:24:16,481 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2022-04-05 11:24:17,646 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2022-04-05 11:24:17,649 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.18
+2022-04-05 11:24:18,141 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.6.6/spring-boot-starter-test-2.6.6-sources.jar
+2022-04-05 11:24:18,333 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.6.6/spring-boot-starter-test-2.6.6-sources.jar
+2022-04-05 11:24:18,335 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:2.6.6
+2022-04-05 11:24:18,880 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.6.6/spring-boot-test-2.6.6-sources.jar
+2022-04-05 11:24:19,496 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.6.6/spring-boot-test-2.6.6-sources.jar
+2022-04-05 11:24:19,499 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:2.6.6
+2022-04-05 11:24:20,007 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.6.6/spring-boot-test-autoconfigure-2.6.6-sources.jar
+2022-04-05 11:24:20,616 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.6.6/spring-boot-test-autoconfigure-2.6.6-sources.jar
+2022-04-05 11:24:20,618 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:2.6.6
+2022-04-05 11:24:21,155 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2022-04-05 11:24:24,338 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2022-04-05 11:24:24,341 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.18
+2022-04-05 11:24:24,871 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2022-04-05 11:24:25,111 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2022-04-05 11:24:25,114 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.18
+2022-04-05 11:24:25,640 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.18/spring-test-5.3.18-sources.jar
+2022-04-05 11:24:29,334 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.18/spring-test-5.3.18-sources.jar
+2022-04-05 11:24:29,335 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.3.18
+2022-04-05 11:24:29,600 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:24:29,601 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:24:29,602 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:24:29,602 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:24:29,604 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:24:29,605 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:24:29,605 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
+2022-04-05 11:25:34,789 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:25:34,790 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:25:34,803 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-05 11:25:34,827 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:25:34,831 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-05 11:25:34,831 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 11:25:34,831 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
