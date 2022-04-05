@@ -24,7 +24,7 @@ public class Categoria implements Serializable {
 	
 	// - Atributos básicos!
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@GeneratedValue(strategy=GenerationType.IDENTITY) // estrategia de geração automatica dos Id's das categorias
 	private Integer id;
 	private String nome;
 	

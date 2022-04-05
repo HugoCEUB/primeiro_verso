@@ -53,7 +53,6 @@ INDEX VERSION 1.131+C:\Users\Hugo\Documents\ws-sts\.metadata\.plugins\org.eclips
 2551228071.index
 2924315703.index
 1157496704.index
-3481580427.index
 1330701170.index
 4195015777.index
 3881189314.index

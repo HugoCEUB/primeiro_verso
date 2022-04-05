@@ -1,0 +1,25 @@
+package com.ceub.primeiro_verso.services;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ceub.primeiro_verso.domain.Categoria;
+import com.ceub.primeiro_verso.repositories.CategoriaRepository;
+
+@Service
+public class CategoriaService {
+	
+	// serviço que chama operação de obj de acesso a dados
+	@Autowired
+	private CategoriaRepository repo;
+	// Buscar categoria por código
+	public Categoria find(Integer id) {
+		// Para buscar um obj por ID se utiliza o método findById, retorna um obj Optional do tipo que eu <instanciei>
+		// Optional Obj Container que carrega um Obj do tipo informado e encapsula a questão do Objeto estar instaciado ou não
+		Optional<Categoria> obj = repo.findById(id);
+		// Se obj encontrado return obje se não return null
+		return obj.orElse(null);
+	}
+}
