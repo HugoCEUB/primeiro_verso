@@ -497,3 +497,19 @@ java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Pro
 2022-04-05 17:43:19,210 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-04-05 17:43:19,211 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-05 17:43:19,211 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-05 17:43:19,212 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
+2022-04-06 15:05:22,409 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-06 15:14:35,531 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-06 15:14:35,532 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-06 15:14:35,536 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-06 15:14:35,553 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-06 15:14:35,556 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-06 15:14:35,556 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-06 15:14:35,556 [Worker-8: Launching primeiroVerso - PrimeiroVersoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
+2022-04-06 15:15:55,053 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-06 15:15:55,054 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-06 15:15:55,072 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-06 15:15:55,079 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-06 15:15:55,081 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-06 15:15:55,081 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-06 15:15:55,081 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hugo\Documents\ws-sts\primeiroVerso\src\test\resources
