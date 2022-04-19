@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.ceub.primeiro_verso.domain.Categoria;
 import com.ceub.primeiro_verso.repositories.CategoriaRepository;
+import com.ceub.primeiro_verso.services.exceptions.ObjectNotFoundException;
 
 @Service
 public class CategoriaService {
@@ -15,11 +16,25 @@ public class CategoriaService {
 	@Autowired
 	private CategoriaRepository repo;
 	// Buscar categoria por código
+	
+	/*
 	public Categoria find(Integer id) {
 		// Para buscar um obj por ID se utiliza o método findById, retorna um obj Optional do tipo que eu <instanciei>
 		// Optional Obj Container que carrega um Obj do tipo informado e encapsula a questão do Objeto estar instaciado ou não
 		Optional<Categoria> obj = repo.findById(id);
 		// Se obj encontrado return obje se não return null
+		if (obj == null) {
+			throw new ObjectNotFoundException("Objeto não encontrado! Id: " + id
+					+ ", Tipo: " + Categoria.class.getName());
+		}
 		return obj.orElse(null);
+	}
+	*/
+	public Categoria find(Integer id) {
+	 	Optional<Categoria> obj = repo.findById(id);
+	 	return obj.orElseThrow(() -> new ObjectNotFoundException(
+	 			"Objeto nao encontrado! Id: " + id + ", Tipo: " + Categoria.class.getName()));
+	 
+	 
 	}
 }
