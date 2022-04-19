@@ -10,12 +10,15 @@
 package com.ceub.primeiro_verso.domain;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.ManyToMany;
 
 // mapeamento da classe, Entity para ser classificado com uma entidade do JPA
 @Entity
@@ -27,6 +30,9 @@ public class Categoria implements Serializable {
 	@GeneratedValue(strategy=GenerationType.IDENTITY) // estrategia de geração automatica dos Id's das categorias
 	private Integer id;
 	private String nome;
+	
+	@ManyToMany(mappedBy="categorias")
+	private List<Produto> produtos = new ArrayList<>();
 	
 	// - Construtures
 	public Categoria() {
@@ -56,6 +62,14 @@ public class Categoria implements Serializable {
 		this.nome = nome;
 	}
 	
+	public List<Produto> getProdutos() {
+		return produtos;
+	}
+
+	public void setProdutos(List<Produto> produtos) {
+		this.produtos = produtos;
+	}
+	
 	// - hashCode e equal (operação para comparar os objetos por valor e não por ponteiro na memoria)
 	@Override
 	public int hashCode() {
@@ -73,6 +87,8 @@ public class Categoria implements Serializable {
 		Categoria other = (Categoria) obj;
 		return Objects.equals(id, other.id);
 	}
+
+
 	
 	// Serializable (converte os objetos da classe para uma sequencia de bits, para q os objetos possam ser gravados em arquivos, trafegar em rede, etc...)
 }
