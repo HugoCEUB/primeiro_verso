@@ -1,0 +1,5 @@
+package com.ceub.primeiro_verso.dto;
+
+public class CategoriaDTO {
+
+}
