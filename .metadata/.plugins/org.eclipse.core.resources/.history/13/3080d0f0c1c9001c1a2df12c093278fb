@@ -1,0 +1,5 @@
+package com.ceub.primeiro_verso.resources.exception;
+
+public class ValidationError extends StandardError {
+
+}
