@@ -99,3 +99,63 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 22:03:02.968
 !MESSAGE executing callback sts4.classpath.IFvVtPwy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:25:56.604
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:25:56.608
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:25:56.611
+!MESSAGE buffering callback sts4.classpath.IFvVtPwy primeiroVerso false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:25:56.611
+!MESSAGE executing callback sts4.classpath.IFvVtPwy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:25:56.625
+!MESSAGE executing callback sts4.classpath.IFvVtPwy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:04.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:04.393
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:04.395
+!MESSAGE buffering callback sts4.classpath.IFvVtPwy primeiroVerso false 91
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:04.395
+!MESSAGE executing callback sts4.classpath.IFvVtPwy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:04.405
+!MESSAGE executing callback sts4.classpath.IFvVtPwy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:15.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:15.593
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:15.595
+!MESSAGE buffering callback sts4.classpath.IFvVtPwy primeiroVerso false 91
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:15.595
+!MESSAGE executing callback sts4.classpath.IFvVtPwy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:15.605
+!MESSAGE executing callback sts4.classpath.IFvVtPwy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:41.313
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:41.315
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:41.317
+!MESSAGE buffering callback sts4.classpath.IFvVtPwy primeiroVerso false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:41.318
+!MESSAGE executing callback sts4.classpath.IFvVtPwy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-01 23:26:41.328
+!MESSAGE executing callback sts4.classpath.IFvVtPwy SUCCESS [done]
