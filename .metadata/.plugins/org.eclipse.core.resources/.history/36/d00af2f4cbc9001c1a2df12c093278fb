@@ -1,0 +1,5 @@
+package com.ceub.primeiro_verso.services.validation;
+
+public class ClienteInsertValidator {
+
+}
