@@ -1,0 +1,5 @@
+package com.ceub.primeiro_verso.resources;
+
+public @interface PreAuthorize {
+
+}
